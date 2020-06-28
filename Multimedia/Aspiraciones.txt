@@ -1,0 +1,106 @@
+<html>
+<head>
+     <TITLE>Aspiraciones y Proyectos</TITLE>
+ </head>
+ <Body bgcolor=Goldenrod>
+   <h2>
+   <p>
+   <A HREF=https:https://https://www.entrepreneur.com/article/262326><IMG SRC=idea.jpg
+   WIDTH=300 HEIGHT=300 BORDER=8ALIGN=MIDDLE>
+   </A>
+   
+   <I>
+       <FONT SIZE=6 COLOR=Aquamarine>
+       "Aspiraciones y Proyectos"
+       </FONT>
+  </I>
+  </p>
+  </h2>
+  <HR SIZE=10 COLOR=MARRON>
+  <TABLE BORDER=6 ALIGN=CENTER>
+   <CAPTION>
+           <B>Proximos Proyectos</B>
+  </CAPTION>
+  <TR>
+        <TH>CONTEXTO</TH>
+        <TH>PROYECTO</TH>
+        <TH>DESCRIPCION</TH>
+        
+  </TH>
+  <TR>
+      <TD>
+        <IMG SRC=bio.jpg WIDTH=350 HEIGHT=400></TD>
+        <TD BGCOLOR=Bisque ALIGN=CENTER>
+        <P><B>U><A HREF=Bio.html>Bioquimica</U></B></P>
+        </TD>
+       <TD BGCOLOR=INDIANRED>
+        Contribuir con la ingenieria
+       <BR>
+       Aplicar en laboratorios
+       <BR>
+       Impartir la ingenieria bioquimica
+       aplicando genetica y protesis 
+       roboticas.
+       </TD>
+
+       
+     </TR>
+     <TR>
+
+      <TD>
+       <IMG SRC=mundo.gif WIDTH=350 HEIGHT=400></TD>
+      <TD BGCOLOR=NAVY ALIGN=CENTER>
+      <P><B>U><A HREF=Idiomas.html>Idiomas</U></B></P>
+     </TD>
+     <TD BGCOLOR=Lightsteelblue>
+     Estudiar 3 ideomas
+     <BR>
+     Ademas de impartirlos en demas laboratorios
+     <BR>
+     Con estos poder viajar a otros 
+     paises regiones y conocer diversas
+     culturas.
+    </TD>
+    
+ 
+ </TR>
+ <TR>
+
+    <TD>
+       <IMG SRC=cabaña.jpg WIDTH=350 HEIGHT=400>
+       <TD BGCOLOR=GRAY ALIGN=CENTER>
+       <P><B>U><A HREF=cabañavera.html>Proyecto cabaña</U></B></P>
+       </TD>
+       <TD BGCOLOR=BLUE>
+       Poder custruir una cabaña
+       <BR>
+       Tner disposicion en materiales
+       <BR>
+       Poder cumplir el sueño de mi abuelita y el mio
+       ademas de contar con algunas ventajas en el tipo
+       de clima y fauna.
+      </TD>
+     </TR>
+ <TR>
+
+    <TD>
+       <IMG SRC=auto.jpg WIDTH=350 HEIGHT=400>
+       <TD BGCOLOR=GRAY ALIGN=CENTER>
+       <P><B>U><A HREF=proyectoauto.html>Proyecto auto</U></B></P>
+       </TD>
+       <TD BGCOLOR=BLUE>
+       Tener mi propio transporte
+       <BR>
+       Trabajar para poder poder pagar un departamento
+       <BR>
+       Con ayuda de mi mejor amigo trabajar y estudiar y haci
+       pode pagar la renta del departamento y conseguir algunas
+       ayudas por parte de la universidad.
+      </TD>
+    
+</BODY>
+</HTML>
+
+ 
+
+    
